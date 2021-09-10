@@ -29,3 +29,5 @@ if __name__ == '__main__':
         numbers_item = int(input())
         numbers.append(numbers_item)
     closestNumbers(numbers)
+   
+# This file has to checked for more test cases for clarity
