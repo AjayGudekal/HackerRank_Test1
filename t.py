@@ -1,3 +1,4 @@
+# HackerRank Program to print minimum difference between elements in array
 def closestNumbers(numbers):
     d = []
     pos = 0
